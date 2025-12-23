@@ -1,2 +1,3 @@
 # webots_pathplanning
 使用webots进行无人机路径规划
+本项目基于webots实现了无人机在简单环境下的路径规划功能
